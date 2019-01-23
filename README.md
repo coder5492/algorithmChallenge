@@ -1,2 +1,2 @@
 # algorithmChallenge
-Solutions to the daily problems of the algorithm challenge
+Solutions to the DailyCodingProblems from http://dailycodingproblem.com
